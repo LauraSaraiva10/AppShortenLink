@@ -1,5 +1,5 @@
 # AppShortenLink
-App desenvolvida no Workshop React Native. Permite encurtar links. Foi usada a Bitly API. 
+App developed at the React Native Workshop. It allows you to shorten links. Bitly API was used.
 
 ![5d7cfv](https://user-images.githubusercontent.com/63668973/121885734-6e5fb600-cd0c-11eb-946c-149a3422fd5c.gif)
 
